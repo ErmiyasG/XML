@@ -1,0 +1,24 @@
+<users>
+    <user type="Admin">
+        <name lang="en">Feysel Mubarek</name>
+        <age>21</age>
+        <address lang="en">Algeria St</address>
+    </user>
+
+    <user type="Admin">
+        <name lang="en">Micki Gashe</name>
+        <age>22</age>
+        <address lang="en">Botswana St</address>
+    </user>
+
+    <user type="Admin">
+        <name lang="en">Abel Tsegsh</name>
+        <age>23</age>
+        <address lang="en">Ambo</address>
+    </user>
+</users>
+
+
+<!-- for $x in doc("users.xml")/users/user where $x/age>=22
+order by $x/name
+return $x/name -->

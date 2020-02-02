@@ -1,0 +1,16 @@
+<bookstore>
+    <book category="Cooking">
+        <title lang="en">Test</title>
+        <author lang="en">Feysek</author>
+    </book>
+
+    <book category="Education">
+        <title lang="en">Education</title>
+        <author lang="en">MIcki</author>
+    </book>
+
+    <book category="Life">
+        <title lang="en">Life</title>
+        <author lang="en">Abel</author>
+    </book>
+</bookstore>
